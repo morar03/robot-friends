@@ -1,5 +1,6 @@
 {
   "name": "robot-firends",
+  "homepage" : "https://morar03.github.io/robo-friends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
